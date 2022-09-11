@@ -1,0 +1,4 @@
+<a class="weatherwidget-io" href="https://forecast7.com/fr/48d696d18/nancy/" data-label_1="nancy" data-label_2="météo" data-font="Monaco" data-icons="Climacons Animated" data-days="5" data-theme="beige" data-basecolor="#F1D1D0" data-textcolor="#222" data-highcolor="#F875AA" data-lowcolor="#FBACCC" data-suncolor="#F5E8C7" data-mooncolor="#F5E8C7" data-cloudcolor="#ffff" data-cloudfill="#F4F9F9" data-raincolor="#F4F9F9" data-snowcolor="#F4F9F9" >nancy météo</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
